@@ -1,0 +1,7 @@
+c:\users\константин\documents\visual studio 2010\Projects\Crawler\Crawler\obj\x86\Debug\Crawler.frmBrowserWindow.resources
+c:\users\константин\documents\visual studio 2010\Projects\Crawler\Crawler\obj\x86\Debug\Crawler.Properties.Resources.resources
+c:\users\константин\documents\visual studio 2010\Projects\Crawler\Crawler\obj\x86\Debug\Crawler.csproj.GenerateResource.Cache
+c:\users\константин\documents\visual studio 2010\Projects\Crawler\Crawler\bin\Debug\Crawler.exe
+c:\users\константин\documents\visual studio 2010\Projects\Crawler\Crawler\bin\Debug\Crawler.pdb
+c:\users\константин\documents\visual studio 2010\Projects\Crawler\Crawler\obj\x86\Debug\Crawler.exe
+c:\users\константин\documents\visual studio 2010\Projects\Crawler\Crawler\obj\x86\Debug\Crawler.pdb
